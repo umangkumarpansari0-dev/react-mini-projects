@@ -36,8 +36,3 @@ These projects demonstrate modern frontend concepts like **client-side routing**
 
 ---
 
-## ⚙️ Setup Instructions
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/umangkumarpansari0-dev/react-mini-projects.git
